@@ -211,32 +211,6 @@ python3 bioinfo1.py
 
 ---
 
-## Project Structure
-
-```text
-stickleback-gene-analysis/
-├── scripts/
-│   ├── extract_threespine_orthogroups.sh
-│   ├── extract_proteins.sh
-│   └── run_diamond.sh
-│
-├── phylogenetics/
-│   ├── biofind.py
-│   ├── bioinfo.py
-│   └── bioinfo1.py
-│
-├── data/
-│   ├── lineage_specific_locations.bed
-│   ├── Danio_rerio.fa
-│   └── *.nwk
-│
-├── results/
-│   ├── EDA_distance_table.csv
-│   └── diamond_results.tsv
-│
-└── README.md
-```
-
 ---
 
 ## Key Findings
